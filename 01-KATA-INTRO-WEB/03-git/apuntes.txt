@@ -1,0 +1,24 @@
+git config --global user.name "b3rsk"
+
+git config --global user.email "juanjojse321@gmail.com
+
+git config --global --replace-all user.email "juanjojse321@gmail.com
+
+COMPROBAR MI CONFIGURACION global
+git config =l
+
+ESCRITURA DE ARROBA
+altgr + Q
+altgr + 2
+
+mkdir master-marvel-code
+cd master-marvel-code
+
+main (master) = producto final
+develop = trabajando actualmente 
+feature = una rama donde se trabaja algo en especifico
+hotfix = correciones
+
+
+HEAD
+es un "puntero" a donde estamos localizados actualmente

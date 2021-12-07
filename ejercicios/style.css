@@ -1,0 +1,32 @@
+.bandera {
+    height: 200px;
+    width: 350px;
+    background-color: blue;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.superior {
+    height: 75px;
+    width: 350px;
+    background-color: red;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.inferior {
+    height: 75px;
+    width: 350px;
+    background-color: darkorange;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.superior-izq {
+    height: 75px;
+    width: 100px;
+    background-color: red;
+}
+.superior-der {
+
+}

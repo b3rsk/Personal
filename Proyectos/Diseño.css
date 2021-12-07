@@ -1,0 +1,20 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+}
+.navbar__links {
+    display: flex;
+    flex-direction: column-reverse;
+}
+.cuerpo {
+    background-color: darkslateblue;
+}
+.almedio {
+    display: flex;
+    justify-content: space-around;
+}
+.la {
+    display: flex;
+    justify-content: space-between;
+
+}
