@@ -1,0 +1,218 @@
+.p1 {
+    width: 100%;
+    height: 64px;
+    position: fixed;
+    background-color: white;
+}
+.navegador {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    align-items: center;
+
+
+}
+.logo {
+    padding-left: 25px;
+    display: flex;
+    width: 50px;
+    cursor: pointer;
+}    
+.inicio {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.lol {
+    border: solid;
+    border-width: medium;
+    border-radius: 25px;
+    padding: 10px;
+    background-color: black;
+    cursor: pointer;
+}
+.hoy {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.lal {
+    cursor: pointer;
+    transition-duration: 0,4s;
+
+}
+.lal2 {
+    background-color: white;
+    border-color: white;
+    border-width: medium;
+    border-radius: 25px;
+    padding: 10px;
+}
+.lal2:hover {
+    background-color: rgb(233, 227, 227);
+}
+.lupa {
+    cursor: pointer;
+    transition-duration: 0,4s;
+    padding-left: 15px;
+}
+.lupa2 {
+    background-color: rgba(233, 227, 227, 0.651);
+    border-color: white;
+    border-width: medium;
+    border-radius: 25px;
+    padding: 10px;
+    width: 800px;
+    height: 25px;
+}
+.lupa2:hover {
+    background-color: rgb(233, 227, 227);
+}
+.lupaa {
+    display: flex;
+    align-items: center;
+} 
+.buscar {
+    padding-left: 10px;
+}
+.campana {
+    padding-left: 50px;
+    cursor: pointer;
+}
+.sas {
+    background-color: white;
+    border-color: white;
+    border-width: medium;
+    border-radius: 25px;
+    padding: 10px;
+}
+.sas:hover {
+    background-color: rgb(233, 227, 227);
+}
+.mensaje {
+    padding-left: 2px;
+    cursor: pointer;
+    align-items: center;
+}
+.e {
+    background-color: white;
+    border-color: white;
+    border-width: medium;
+    border-radius: 25px;
+    padding: 10px;
+}
+.e:hover {
+    background-color: rgb(233, 227, 227);
+}
+.perfil {
+    padding-left: 2px;
+    cursor: pointer;
+    align-items: center;
+}
+.pe {
+    background-color: white;
+    border-color: white;
+    border-width: medium;
+    border-radius: 25px;
+    padding: 10px;
+}
+.pe:hover {
+    background-color: rgb(233, 227, 227);
+}
+.colordel{
+    background-color: white;
+}
+.fotos {
+    padding-top: 64px;
+    padding-left: 40px;
+    padding-right: 30px;
+    display: flex;
+    height: 300px;
+    
+}
+.f1 {
+    height: 50%;
+}
+.f1a {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.f1b {
+    padding-left: 5px;
+    cursor: pointer;
+}
+.f1b:hover {
+    text-decoration: underline;
+}
+.f2 {
+    padding-left: 15px;
+}
+.f3 {
+padding-left: 15px;
+}
+.f4 {
+    padding-left: 15px;
+}
+.f5 {
+    padding-left: 15px;
+}
+.fotos2 {
+    padding-left: 40px;
+    padding-right: 30px;
+    display: flex;
+    height: 250px;
+}
+.f6 {
+    padding-top: 15px;
+}
+.f7 {
+    padding-top: 50px;
+    padding-left: 15px;
+}
+.f8 {
+    padding-left: 15px;
+    padding-top: 10px;
+}
+.f8a {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.f8b {
+    padding-left: 5px;
+    cursor: pointer;
+}
+.f8b:hover {
+    text-decoration: underline;
+}
+.f9 {
+    padding-left: 15px;
+    padding-top: 73px;
+}
+.f10 {
+    padding-left: 15px;
+    padding-top: 60px;
+}
+.fotos3 {
+    padding-left: 40px;
+    padding-right: 30px;
+    display: flex;
+}
+.f11 {
+    padding-top: 125px;
+}
+.f12 {
+    padding-left: 15px;
+    padding-top: 156px;
+}
+.f13 {
+    padding-left: 15px;
+    padding-top: 1px;
+}
+.f14 {
+    padding-left: 15px;
+    padding-top: 237px;
+}
+.f15 {
+    padding-left: 15px;
+    padding-top: 60px;
+}
